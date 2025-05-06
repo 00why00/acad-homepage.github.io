@@ -1,4 +1,4 @@
-# 📖 Education and Experiences
+# 📖 Educations and Experiences
 - *2024.03 - present*, Northwestern Polytechnical University, Ph.D. in Computer Science and Technology.
 - *2023.06 - 2023.09*, Hikvision Research Institute, Hangzhou.
 - *2021.09 - 2024.03*, Northwestern Polytechnical University, Master of Computer Technology.

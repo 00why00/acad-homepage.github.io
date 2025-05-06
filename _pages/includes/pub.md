@@ -5,7 +5,7 @@
 [No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves](https://arxiv.org/pdf/2505.02831) \\
 Dengyang Jiang, Mengmeng Wang, Liuzhuozheng Li, Lei Zhang, **Haoyu Wang**, Wei Wei, Guang Dai, Yanning Zhang, Jingdong Wang
 
-[**Porject**](https://vvvvvjdy.github.io/sra) | [**Code**](https://github.com/vvvvvjdy/SRA)
+[**Project**](https://vvvvvjdy.github.io/sra) | [**Code**](https://github.com/vvvvvjdy/SRA)
 <!-- <strong><span class='show_paper_citations' data='PBNh1BIAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 
 - Enhances Diffusion Transformers' representation and generation through self-representation alignment via self-distillation, eliminating external components.
